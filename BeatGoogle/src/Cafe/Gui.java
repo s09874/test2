@@ -44,7 +44,7 @@ public class Gui extends HttpServlet {
 		String text = "";
 		String text2 = "";
 
-		//要加入按鈕
+		//閬�����
 		buttonString = "sport";
 
 		if (!input.isEmpty()) {
@@ -101,3 +101,4 @@ public class Gui extends HttpServlet {
 		doGet(request, response);
 	}
 }
+//我在人民廣場吃著炸機
